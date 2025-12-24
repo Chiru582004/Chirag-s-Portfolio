@@ -8,7 +8,7 @@ const projects = [
     image: "/photos/backendPP.png",
     tags: ["Java", "Spring Boot", "Kafka"],
     demoUrl: "https://matrix-ai-project.vercel.app/",
-    githubUrl: "https://github.com/chinmaygupta0/Matrix-ai-project",
+    githubUrl: "https://github.com/Chiru582004/Trade-Matching-Engine",
   },
   {
     id: 2,
