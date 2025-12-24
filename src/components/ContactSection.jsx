@@ -98,25 +98,25 @@ export const ContactSection = () => {
               </div>
             </div>
 
-            <div className="pt-8">
+            <div className="flex items-start space-x-4 pt-8">
               <h4 className="font-medium mb-4"> Connect With Me</h4>
               <div className="flex space-x-4 justify-center">
                 <a
-      href="https://www.linkedin.com/in/chirag-gupta-030743249/"
-      target="_blank"
-      rel="noopener noreferrer"
-      aria-label="LinkedIn"
-    >
-      <Linkedin className="h-6 w-6 hover:text-primary transition-colors" />
-    </a>
+                  href="https://www.linkedin.com/in/chirag-gupta-030743249/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="LinkedIn"
+                >
+                  <Linkedin className="h-6 w-6 hover:text-primary transition-colors" />
+                </a>
                 <a
-      href="https://www.instagram.com/i_chirag05/?hl=en"
-      target="_blank"
-      rel="noopener noreferrer"
-      aria-label="Instagram"
-    >
-      <Instagram className="h-6 w-6 hover:text-primary transition-colors" />
-    </a>
+                  href="https://www.instagram.com/i_chirag05/?hl=en"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="Instagram"
+                >
+                  <Instagram className="h-6 w-6 hover:text-primary transition-colors" />
+                </a>
               </div>
             </div>
           </div>
